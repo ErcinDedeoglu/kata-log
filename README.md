@@ -6,7 +6,6 @@ Pull requests accepted - add your favorite kata to the catalog.
 A list of code kata instructions (in the /katas folder) compiled by [@ercindedeoglu](http://twitter.com/ercindedeoglu):
 
 - [Bowling Game](katas/Bowling%20Game.md)
-- [Builder in Unit Tests (C#)](https://github.com/ercindedeoglu/BuilderTestSample)
 - [Collection Default Item](katas/CollectionDefaultItem.md)
 - [File Logger (mocking kata)](katas/File%20Logger.md)
 - [FizzBuzz](katas/FizzBuzz.md)
